@@ -7,4 +7,4 @@ invertir un numero de 3 dígitos
 
 ## Diagrama de flujo
 
-![Diagrama de flujo](diagramanumero.png "Diagrama de flujo")
+![Diagrama de flujo](diagramads.png "Diagrama de flujo")
