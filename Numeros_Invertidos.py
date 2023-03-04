@@ -1,13 +1,11 @@
 import math
-# Numeros_Invertidos
-print(--------NUMEROS INVERTIDOS-------)
 
-# input
- N= int(input("digite el numero de tres digitos"))
+A = int(input("Ingrese numero de tres cifras: "))
 
-# processing
+c3 = A % 10
 
-NI= N%10
-p= N//10
+c2 = int((A % 100) / 10)
 
-print("El numero invertido es" + str(NI))
+c1 = int((A % 1000) / 100)
+
+print(str(c3)+str(c2)+str(c1))
